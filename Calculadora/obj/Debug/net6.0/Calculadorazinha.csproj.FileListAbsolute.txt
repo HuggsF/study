@@ -1,0 +1,5 @@
+C:\Users\hfsdm\Desktop\Git\Projetos\.NET\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.csproj.AssemblyReference.cache
+C:\Users\hfsdm\Desktop\Git\Projetos\.NET\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfsdm\Desktop\Git\Projetos\.NET\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.AssemblyInfoInputs.cache
+C:\Users\hfsdm\Desktop\Git\Projetos\.NET\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.AssemblyInfo.cs
+C:\Users\hfsdm\Desktop\Git\Projetos\.NET\Calculadorazinha\obj\Debug\net6.0\Calculadorazinha.csproj.CoreCompileInputs.cache
